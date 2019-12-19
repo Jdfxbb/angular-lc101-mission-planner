@@ -1,6 +1,4 @@
-.box{
-    display:flex;
-    padding: 10px;
-    background-color: crimson;
-    color: white;
+.box {
+  display: flex;
+  padding: 10px;
 }
